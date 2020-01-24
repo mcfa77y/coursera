@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6b5cd13-4692-4da7-84d4-83d727363930" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VjavUEdxOowDbrhuCYC572YBSL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.PercolationStats">
+    <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="percolate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="percolate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightedQuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.WeightedQuickUnionUF" />
+      <module name="percolate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.princeton.cs.algs4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.WeightedQuickUnionUF" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PercolationStats" />
+        <item itemvalue="Application.Percolation" />
+        <item itemvalue="Application.WeightedQuickUnionUF" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Project_Structure" timestamp="1577844480078">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1577844480078" />
+    <state x="404" y="126" key="#WeightedQuickUnionUF" timestamp="1577777041272">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="404" y="126" key="#WeightedQuickUnionUF/0.23.1440.877@0.23.1440.877" timestamp="1577777041272" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577844449816">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1577844449816" />
+    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577844447323">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="457" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1577844447323" />
+    <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577844425383">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="570" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1577844425383" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1579802622906">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579802622906" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1579802622905">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579802622905" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1579802622904">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579802622904" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1579802622905">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579802622905" />
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1579802622908">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579802622908" />
+    <state width="1398" height="285" key="GridCell.Tab.1.center" timestamp="1579802622907">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1579802622907" />
+    <state width="1398" height="285" key="GridCell.Tab.1.left" timestamp="1579802622906">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1579802622906" />
+    <state width="1398" height="285" key="GridCell.Tab.1.right" timestamp="1579802622907">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1579802622907" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1577844414419">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1577844414419" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579880639602">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1579880639602" />
+    <state x="312" y="186" width="816" height="550" key="find.popup" timestamp="1578377809191">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="312" y="186" width="816" height="550" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1578377809191" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578371439162">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1578371439162" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1578381930755">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1578381930755" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>144</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Percolation.java</url>
+          <line>142</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PercolationStats.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
